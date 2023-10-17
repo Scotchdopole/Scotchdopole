@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [weather app](https://github.com/Scotchdopole/weather-app)
 
-- 🌱 I’m currently learning **Java, JavaScript**
+- 🌱 I’m currently learning **Java, JavaScript, godot**
 
 - 📫 How to reach me **thonjirka@gmail.com**
 
