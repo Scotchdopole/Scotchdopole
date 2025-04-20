@@ -16,7 +16,7 @@
 <br>
 <h3 align="left">Technologies I use:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,mongodb,react,electron,nodejs,figma,linux,mysql,expressjs)
+![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,mongodb,nodejs,react,electron,figma,linux,mysql,expressjs)
 
 <br>
 <h3 align="left">Connect with me:</h3>
